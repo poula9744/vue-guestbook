@@ -5,7 +5,7 @@ export default createStore({
 state() {
         return {
             //apiBaseUrl: "http://localhost:9000"
-            apiBaseUrl: "http://15.164.95.225:9000"
+            apiBaseUrl: "http://54.180.116.236:9000"
             
         };
     },
